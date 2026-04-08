@@ -1,28 +1,1000 @@
-apple 10
-banana 20
-orange 15
-apple 25
-banana 30
-grape 12
-mango 18
-apple 10
-orange 22
-banana 20
-grape 12
-mango 18
-apple 25
-kiwi 7
-melon 14
-berry 9
-peach 16
-plum 11
-apple 30
-banana 28
-orange 19
-grape 13
-mango 21
-kiwi 8
-melon 17
-berry 6
-peach 20
-plum 15
+Health and beauty 548
+Electronic accessories 80
+Home and lifestyle 340
+Health and beauty 489
+Sports and travel 634
+Electronic accessories 627
+Electronic accessories 433
+Home and lifestyle 772
+Health and beauty 76
+Food and beverages 172
+Fashion accessories 60
+Electronic accessories 107
+Electronic accessories 246
+Food and beverages 453
+Health and beauty 749
+Sports and travel 590
+Health and beauty 506
+Sports and travel 457
+Food and beverages 172
+Home and lifestyle 84
+Electronic accessories 451
+Health and beauty 277
+Home and lifestyle 69
+Electronic accessories 181
+Sports and travel 279
+Home and lifestyle 441
+Fashion accessories 35
+Fashion accessories 184
+Food and beverages 463
+Health and beauty 235
+Fashion accessories 494
+Sports and travel 737
+Sports and travel 703
+Health and beauty 202
+Food and beverages 417
+Sports and travel 71
+Sports and travel 328
+Electronic accessories 575
+Health and beauty 461
+Home and lifestyle 253
+Home and lifestyle 91
+Home and lifestyle 117
+Sports and travel 435
+Food and beverages 829
+Health and beauty 32
+Electronic accessories 394
+Health and beauty 535
+Food and beverages 189
+Electronic accessories 119
+Fashion accessories 867
+Food and beverages 671
+Food and beverages 234
+Fashion accessories 75
+Fashion accessories 16
+Home and lifestyle 33
+Electronic accessories 722
+Home and lifestyle 93
+Health and beauty 752
+Home and lifestyle 759
+Electronic accessories 192
+Sports and travel 77
+Home and lifestyle 351
+Sports and travel 520
+Sports and travel 166
+Health and beauty 318
+Health and beauty 166
+Health and beauty 70
+Fashion accessories 614
+Sports and travel 827
+Health and beauty 19
+Food and beverages 939
+Fashion accessories 652
+Food and beverages 152
+Electronic accessories 478
+Home and lifestyle 705
+Electronic accessories 437
+Fashion accessories 463
+Fashion accessories 189
+Food and beverages 822
+Health and beauty 106
+Health and beauty 624
+Food and beverages 304
+Food and beverages 161
+Food and beverages 337
+Sports and travel 256
+Sports and travel 610
+Fashion accessories 401
+Food and beverages 362
+Sports and travel 44
+Health and beauty 485
+Home and lifestyle 198
+Sports and travel 471
+Sports and travel 161
+Health and beauty 608
+Health and beauty 94
+Electronic accessories 102
+Health and beauty 922
+Electronic accessories 78
+Food and beverages 166
+Home and lifestyle 521
+Fashion accessories 51
+Fashion accessories 742
+Electronic accessories 218
+Food and beverages 367
+Health and beauty 223
+Electronic accessories 931
+Fashion accessories 172
+Sports and travel 391
+Food and beverages 321
+Electronic accessories 860
+Sports and travel 34
+Health and beauty 309
+Fashion accessories 535
+Home and lifestyle 548
+Home and lifestyle 763
+Fashion accessories 85
+Fashion accessories 115
+Fashion accessories 53
+Food and beverages 115
+Home and lifestyle 112
+Electronic accessories 836
+Sports and travel 419
+Sports and travel 944
+Home and lifestyle 536
+Fashion accessories 474
+Home and lifestyle 688
+Sports and travel 169
+Fashion accessories 299
+Food and beverages 575
+Sports and travel 853
+Fashion accessories 291
+Sports and travel 580
+Sports and travel 146
+Electronic accessories 550
+Health and beauty 512
+Fashion accessories 284
+Electronic accessories 138
+Home and lifestyle 216
+Sports and travel 545
+Sports and travel 609
+Sports and travel 942
+Health and beauty 950
+Health and beauty 720
+Food and beverages 31
+Home and lifestyle 491
+Health and beauty 291
+Fashion accessories 316
+Health and beauty 277
+Home and lifestyle 603
+Health and beauty 272
+Fashion accessories 384
+Sports and travel 254
+Fashion accessories 786
+Food and beverages 103
+Sports and travel 680
+Food and beverages 484
+Electronic accessories 75
+Home and lifestyle 263
+Health and beauty 918
+Sports and travel 588
+Food and beverages 362
+Sports and travel 66
+Food and beverages 336
+Sports and travel 160
+Food and beverages 418
+Health and beauty 357
+Home and lifestyle 1003
+Fashion accessories 1039
+Food and beverages 323
+Sports and travel 510
+Health and beauty 367
+Food and beverages 420
+Electronic accessories 175
+Electronic accessories 333
+Food and beverages 166
+Home and lifestyle 319
+Food and beverages 186
+Fashion accessories 165
+Food and beverages 465
+Health and beauty 273
+Fashion accessories 472
+Food and beverages 323
+Sports and travel 162
+Health and beauty 288
+Sports and travel 90
+Food and beverages 56
+Home and lifestyle 793
+Home and lifestyle 195
+Home and lifestyle 77
+Home and lifestyle 293
+Home and lifestyle 242
+Fashion accessories 154
+Food and beverages 829
+Home and lifestyle 107
+Electronic accessories 171
+Fashion accessories 78
+Health and beauty 91
+Home and lifestyle 26
+Health and beauty 174
+Food and beverages 374
+Sports and travel 120
+Electronic accessories 241
+Electronic accessories 451
+Health and beauty 271
+Home and lifestyle 93
+Health and beauty 217
+Electronic accessories 629
+Home and lifestyle 299
+Fashion accessories 95
+Electronic accessories 942
+Electronic accessories 247
+Food and beverages 881
+Home and lifestyle 484
+Sports and travel 146
+Sports and travel 217
+Home and lifestyle 19
+Sports and travel 130
+Electronic accessories 298
+Fashion accessories 796
+Food and beverages 180
+Electronic accessories 285
+Food and beverages 456
+Electronic accessories 62
+Fashion accessories 13
+Food and beverages 90
+Sports and travel 183
+Health and beauty 655
+Electronic accessories 155
+Electronic accessories 571
+Home and lifestyle 532
+Fashion accessories 170
+Electronic accessories 33
+Health and beauty 794
+Fashion accessories 310
+Health and beauty 545
+Sports and travel 195
+Health and beauty 91
+Fashion accessories 232
+Electronic accessories 69
+Fashion accessories 94
+Food and beverages 235
+Health and beauty 125
+Fashion accessories 195
+Home and lifestyle 263
+Home and lifestyle 788
+Home and lifestyle 399
+Electronic accessories 256
+Fashion accessories 94
+Electronic accessories 326
+Food and beverages 536
+Food and beverages 439
+Fashion accessories 369
+Sports and travel 30
+Home and lifestyle 99
+Home and lifestyle 494
+Fashion accessories 137
+Electronic accessories 69
+Home and lifestyle 163
+Electronic accessories 135
+Electronic accessories 276
+Electronic accessories 709
+Fashion accessories 69
+Fashion accessories 160
+Sports and travel 233
+Sports and travel 57
+Sports and travel 723
+Home and lifestyle 148
+Food and beverages 783
+Home and lifestyle 297
+Home and lifestyle 373
+Sports and travel 354
+Health and beauty 44
+Home and lifestyle 203
+Home and lifestyle 25
+Health and beauty 628
+Fashion accessories 352
+Home and lifestyle 229
+Fashion accessories 400
+Fashion accessories 745
+Sports and travel 462
+Home and lifestyle 587
+Home and lifestyle 38
+Sports and travel 16
+Health and beauty 628
+Health and beauty 200
+Health and beauty 350
+Home and lifestyle 78
+Sports and travel 224
+Food and beverages 356
+Home and lifestyle 697
+Electronic accessories 423
+Electronic accessories 204
+Electronic accessories 65
+Food and beverages 76
+Health and beauty 190
+Electronic accessories 272
+Electronic accessories 121
+Home and lifestyle 493
+Home and lifestyle 252
+Home and lifestyle 93
+Fashion accessories 209
+Health and beauty 40
+Food and beverages 51
+Electronic accessories 214
+Electronic accessories 125
+Electronic accessories 530
+Sports and travel 295
+Home and lifestyle 745
+Electronic accessories 83
+Fashion accessories 172
+Sports and travel 503
+Fashion accessories 145
+Food and beverages 74
+Health and beauty 146
+Electronic accessories 820
+Food and beverages 208
+Food and beverages 66
+Electronic accessories 392
+Health and beauty 218
+Health and beauty 185
+Food and beverages 216
+Health and beauty 41
+Health and beauty 96
+Fashion accessories 324
+Home and lifestyle 135
+Sports and travel 410
+Food and beverages 523
+Food and beverages 395
+Health and beauty 214
+Electronic accessories 152
+Home and lifestyle 208
+Food and beverages 103
+Fashion accessories 404
+Food and beverages 49
+Sports and travel 77
+Electronic accessories 149
+Fashion accessories 721
+Sports and travel 365
+Electronic accessories 150
+Food and beverages 404
+Electronic accessories 151
+Health and beauty 411
+Health and beauty 565
+Food and beverages 509
+Sports and travel 140
+Fashion accessories 736
+Electronic accessories 75
+Home and lifestyle 749
+Electronic accessories 191
+Health and beauty 141
+Fashion accessories 1042
+Electronic accessories 379
+Fashion accessories 402
+Home and lifestyle 255
+Electronic accessories 31
+Food and beverages 374
+Fashion accessories 394
+Sports and travel 1002
+Electronic accessories 86
+Sports and travel 78
+Food and beverages 680
+Food and beverages 793
+Food and beverages 209
+Home and lifestyle 461
+Food and beverages 173
+Fashion accessories 343
+Electronic accessories 484
+Home and lifestyle 276
+Sports and travel 150
+Electronic accessories 203
+Electronic accessories 193
+Fashion accessories 128
+Home and lifestyle 441
+Fashion accessories 265
+Home and lifestyle 352
+Fashion accessories 507
+Home and lifestyle 334
+Sports and travel 701
+Fashion accessories 407
+Electronic accessories 99
+Sports and travel 345
+Electronic accessories 55
+Food and beverages 523
+Food and beverages 314
+Food and beverages 214
+Sports and travel 79
+Food and beverages 294
+Health and beauty 339
+Fashion accessories 510
+Food and beverages 133
+Fashion accessories 253
+Fashion accessories 398
+Electronic accessories 80
+Sports and travel 548
+Health and beauty 83
+Health and beauty 406
+Food and beverages 284
+Home and lifestyle 128
+Health and beauty 258
+Electronic accessories 181
+Food and beverages 248
+Home and lifestyle 194
+Home and lifestyle 14
+Fashion accessories 208
+Fashion accessories 718
+Sports and travel 282
+Food and beverages 72
+Fashion accessories 288
+Home and lifestyle 237
+Fashion accessories 125
+Health and beauty 359
+Sports and travel 45
+Health and beauty 110
+Sports and travel 81
+Home and lifestyle 427
+Health and beauty 100
+Home and lifestyle 190
+Health and beauty 85
+Health and beauty 120
+Electronic accessories 185
+Food and beverages 121
+Electronic accessories 264
+Fashion accessories 1020
+Fashion accessories 213
+Fashion accessories 17
+Fashion accessories 383
+Health and beauty 390
+Food and beverages 65
+Sports and travel 353
+Home and lifestyle 951
+Fashion accessories 145
+Food and beverages 90
+Electronic accessories 147
+Fashion accessories 702
+Fashion accessories 49
+Sports and travel 937
+Sports and travel 348
+Home and lifestyle 214
+Food and beverages 71
+Electronic accessories 343
+Food and beverages 91
+Sports and travel 742
+Home and lifestyle 843
+Fashion accessories 13
+Sports and travel 140
+Health and beauty 20
+Food and beverages 290
+Fashion accessories 144
+Health and beauty 28
+Sports and travel 41
+Electronic accessories 470
+Electronic accessories 138
+Food and beverages 333
+Health and beauty 26
+Electronic accessories 87
+Fashion accessories 155
+Food and beverages 731
+Electronic accessories 833
+Electronic accessories 488
+Food and beverages 37
+Food and beverages 212
+Food and beverages 767
+Sports and travel 310
+Food and beverages 23
+Food and beverages 269
+Sports and travel 572
+Health and beauty 273
+Sports and travel 233
+Food and beverages 22
+Electronic accessories 103
+Home and lifestyle 527
+Sports and travel 168
+Fashion accessories 452
+Health and beauty 609
+Electronic accessories 338
+Health and beauty 205
+Sports and travel 174
+Electronic accessories 353
+Sports and travel 360
+Electronic accessories 40
+Food and beverages 554
+Electronic accessories 344
+Sports and travel 194
+Home and lifestyle 633
+Sports and travel 388
+Sports and travel 207
+Fashion accessories 431
+Fashion accessories 156
+Home and lifestyle 24
+Home and lifestyle 734
+Fashion accessories 72
+Fashion accessories 206
+Health and beauty 212
+Home and lifestyle 127
+Fashion accessories 209
+Sports and travel 637
+Electronic accessories 132
+Food and beverages 568
+Sports and travel 103
+Sports and travel 432
+Sports and travel 77
+Fashion accessories 33
+Home and lifestyle 145
+Sports and travel 195
+Sports and travel 92
+Electronic accessories 203
+Sports and travel 152
+Food and beverages 529
+Health and beauty 321
+Home and lifestyle 100
+Sports and travel 666
+Home and lifestyle 225
+Fashion accessories 398
+Electronic accessories 731
+Sports and travel 429
+Fashion accessories 54
+Health and beauty 288
+Home and lifestyle 206
+Home and lifestyle 72
+Sports and travel 377
+Electronic accessories 143
+Home and lifestyle 523
+Home and lifestyle 235
+Health and beauty 132
+Food and beverages 514
+Sports and travel 479
+Fashion accessories 164
+Fashion accessories 125
+Food and beverages 570
+Sports and travel 926
+Health and beauty 160
+Fashion accessories 728
+Electronic accessories 240
+Food and beverages 154
+Home and lifestyle 148
+Home and lifestyle 122
+Fashion accessories 77
+Home and lifestyle 102
+Fashion accessories 306
+Food and beverages 551
+Home and lifestyle 96
+Health and beauty 79
+Sports and travel 84
+Electronic accessories 118
+Food and beverages 74
+Home and lifestyle 163
+Fashion accessories 308
+Sports and travel 575
+Sports and travel 270
+Electronic accessories 416
+Fashion accessories 180
+Fashion accessories 513
+Health and beauty 550
+Electronic accessories 139
+Electronic accessories 142
+Home and lifestyle 118
+Fashion accessories 151
+Food and beverages 1034
+Food and beverages 262
+Home and lifestyle 228
+Electronic accessories 203
+Food and beverages 936
+Electronic accessories 356
+Electronic accessories 469
+Fashion accessories 208
+Food and beverages 852
+Sports and travel 517
+Fashion accessories 621
+Fashion accessories 586
+Sports and travel 543
+Home and lifestyle 430
+Sports and travel 280
+Food and beverages 74
+Food and beverages 152
+Sports and travel 451
+Fashion accessories 597
+Food and beverages 253
+Food and beverages 133
+Health and beauty 269
+Health and beauty 145
+Food and beverages 85
+Health and beauty 326
+Fashion accessories 195
+Fashion accessories 75
+Sports and travel 198
+Health and beauty 217
+Food and beverages 164
+Sports and travel 226
+Fashion accessories 625
+Health and beauty 76
+Health and beauty 293
+Home and lifestyle 178
+Sports and travel 47
+Sports and travel 236
+Sports and travel 304
+Health and beauty 46
+Food and beverages 164
+Sports and travel 440
+Fashion accessories 193
+Home and lifestyle 147
+Electronic accessories 87
+Fashion accessories 68
+Food and beverages 814
+Sports and travel 343
+Fashion accessories 381
+Home and lifestyle 133
+Fashion accessories 394
+Food and beverages 209
+Fashion accessories 32
+Food and beverages 121
+Electronic accessories 30
+Food and beverages 935
+Fashion accessories 293
+Sports and travel 84
+Food and beverages 708
+Sports and travel 365
+Sports and travel 457
+Electronic accessories 461
+Food and beverages 620
+Fashion accessories 273
+Food and beverages 225
+Food and beverages 96
+Home and lifestyle 695
+Fashion accessories 874
+Fashion accessories 95
+Food and beverages 165
+Sports and travel 127
+Health and beauty 867
+Home and lifestyle 167
+Fashion accessories 12
+Sports and travel 673
+Electronic accessories 246
+Food and beverages 175
+Home and lifestyle 314
+Food and beverages 251
+Health and beauty 697
+Health and beauty 212
+Electronic accessories 48
+Food and beverages 92
+Fashion accessories 165
+Food and beverages 311
+Electronic accessories 743
+Electronic accessories 116
+Food and beverages 609
+Electronic accessories 63
+Home and lifestyle 182
+Health and beauty 442
+Fashion accessories 35
+Sports and travel 32
+Electronic accessories 259
+Electronic accessories 397
+Health and beauty 351
+Home and lifestyle 764
+Sports and travel 352
+Fashion accessories 252
+Electronic accessories 49
+Electronic accessories 104
+Fashion accessories 277
+Sports and travel 146
+Fashion accessories 58
+Sports and travel 135
+Sports and travel 125
+Fashion accessories 370
+Food and beverages 914
+Sports and travel 207
+Fashion accessories 204
+Food and beverages 181
+Health and beauty 75
+Health and beauty 300
+Sports and travel 85
+Fashion accessories 588
+Food and beverages 196
+Health and beauty 231
+Health and beauty 282
+Electronic accessories 477
+Fashion accessories 175
+Sports and travel 470
+Food and beverages 308
+Health and beauty 618
+Food and beverages 305
+Electronic accessories 41
+Sports and travel 36
+Fashion accessories 310
+Fashion accessories 45
+Sports and travel 145
+Home and lifestyle 103
+Sports and travel 136
+Home and lifestyle 667
+Sports and travel 153
+Food and beverages 211
+Sports and travel 663
+Food and beverages 404
+Health and beauty 510
+Fashion accessories 539
+Food and beverages 497
+Home and lifestyle 458
+Sports and travel 113
+Home and lifestyle 261
+Electronic accessories 657
+Home and lifestyle 1023
+Fashion accessories 507
+Food and beverages 101
+Fashion accessories 207
+Health and beauty 760
+Home and lifestyle 835
+Health and beauty 527
+Electronic accessories 180
+Food and beverages 72
+Fashion accessories 131
+Sports and travel 80
+Food and beverages 507
+Home and lifestyle 317
+Electronic accessories 733
+Health and beauty 130
+Fashion accessories 829
+Health and beauty 187
+Fashion accessories 525
+Electronic accessories 37
+Fashion accessories 142
+Fashion accessories 110
+Fashion accessories 187
+Sports and travel 856
+Home and lifestyle 138
+Food and beverages 270
+Food and beverages 98
+Health and beauty 239
+Home and lifestyle 175
+Sports and travel 732
+Fashion accessories 408
+Home and lifestyle 383
+Fashion accessories 93
+Health and beauty 176
+Fashion accessories 20
+Electronic accessories 557
+Food and beverages 56
+Health and beauty 860
+Home and lifestyle 596
+Electronic accessories 616
+Electronic accessories 769
+Home and lifestyle 887
+Home and lifestyle 408
+Food and beverages 89
+Sports and travel 150
+Home and lifestyle 79
+Sports and travel 266
+Food and beverages 40
+Fashion accessories 684
+Home and lifestyle 55
+Home and lifestyle 116
+Health and beauty 597
+Fashion accessories 93
+Food and beverages 143
+Electronic accessories 182
+Home and lifestyle 384
+Fashion accessories 267
+Fashion accessories 817
+Electronic accessories 300
+Home and lifestyle 608
+Food and beverages 197
+Food and beverages 232
+Food and beverages 810
+Electronic accessories 757
+Fashion accessories 536
+Health and beauty 56
+Health and beauty 233
+Home and lifestyle 801
+Fashion accessories 239
+Sports and travel 86
+Electronic accessories 401
+Home and lifestyle 72
+Sports and travel 401
+Health and beauty 631
+Sports and travel 499
+Food and beverages 55
+Food and beverages 137
+Food and beverages 151
+Health and beauty 480
+Sports and travel 98
+Sports and travel 132
+Electronic accessories 830
+Health and beauty 183
+Sports and travel 397
+Fashion accessories 32
+Home and lifestyle 369
+Health and beauty 53
+Electronic accessories 548
+Electronic accessories 603
+Health and beauty 57
+Health and beauty 190
+Sports and travel 432
+Fashion accessories 48
+Health and beauty 287
+Home and lifestyle 1022
+Electronic accessories 680
+Electronic accessories 97
+Fashion accessories 57
+Home and lifestyle 63
+Sports and travel 257
+Health and beauty 97
+Home and lifestyle 455
+Sports and travel 144
+Electronic accessories 253
+Fashion accessories 495
+Fashion accessories 462
+Electronic accessories 714
+Home and lifestyle 325
+Sports and travel 195
+Electronic accessories 210
+Health and beauty 18
+Fashion accessories 652
+Health and beauty 90
+Electronic accessories 422
+Sports and travel 341
+Electronic accessories 99
+Electronic accessories 408
+Food and beverages 446
+Fashion accessories 333
+Food and beverages 284
+Health and beauty 403
+Food and beverages 247
+Electronic accessories 222
+Home and lifestyle 100
+Sports and travel 10
+Health and beauty 216
+Sports and travel 441
+Sports and travel 92
+Health and beauty 681
+Fashion accessories 130
+Electronic accessories 681
+Electronic accessories 779
+Electronic accessories 88
+Health and beauty 262
+Sports and travel 99
+Health and beauty 95
+Home and lifestyle 299
+Fashion accessories 54
+Fashion accessories 202
+Sports and travel 281
+Electronic accessories 586
+Sports and travel 184
+Fashion accessories 163
+Electronic accessories 63
+Sports and travel 82
+Food and beverages 31
+Fashion accessories 22
+Electronic accessories 295
+Electronic accessories 76
+Sports and travel 23
+Food and beverages 688
+Fashion accessories 624
+Fashion accessories 77
+Fashion accessories 206
+Health and beauty 390
+Electronic accessories 554
+Health and beauty 503
+Fashion accessories 345
+Food and beverages 177
+Home and lifestyle 118
+Health and beauty 362
+Food and beverages 450
+Home and lifestyle 90
+Sports and travel 26
+Home and lifestyle 106
+Home and lifestyle 375
+Electronic accessories 250
+Health and beauty 106
+Sports and travel 760
+Health and beauty 131
+Food and beverages 76
+Sports and travel 271
+Food and beverages 182
+Fashion accessories 59
+Electronic accessories 225
+Sports and travel 561
+Home and lifestyle 97
+Home and lifestyle 548
+Fashion accessories 54
+Electronic accessories 41
+Electronic accessories 756
+Electronic accessories 101
+Food and beverages 348
+Fashion accessories 85
+Sports and travel 335
+Home and lifestyle 216
+Food and beverages 175
+Sports and travel 335
+Food and beverages 92
+Electronic accessories 771
+Fashion accessories 102
+Sports and travel 807
+Health and beauty 439
+Electronic accessories 486
+Fashion accessories 485
+Electronic accessories 148
+Electronic accessories 317
+Health and beauty 832
+Fashion accessories 446
+Food and beverages 297
+Health and beauty 629
+Food and beverages 331
+Electronic accessories 423
+Home and lifestyle 193
+Health and beauty 145
+Food and beverages 84
+Health and beauty 122
+Home and lifestyle 329
+Health and beauty 888
+Health and beauty 435
+Food and beverages 167
+Home and lifestyle 514
+Food and beverages 91
+Electronic accessories 235
+Home and lifestyle 782
+Fashion accessories 431
+Food and beverages 313
+Electronic accessories 223
+Sports and travel 44
+Fashion accessories 397
+Home and lifestyle 217
+Electronic accessories 82
+Home and lifestyle 338
+Home and lifestyle 103
+Home and lifestyle 26
+Sports and travel 611
+Sports and travel 221
+Electronic accessories 57
+Sports and travel 92
+Health and beauty 374
+Electronic accessories 833
+Sports and travel 53
+Home and lifestyle 629
+Fashion accessories 175
+Food and beverages 781
+Health and beauty 470
+Home and lifestyle 397
+Home and lifestyle 270
+Health and beauty 579
+Sports and travel 469
+Health and beauty 290
+Food and beverages 360
+Food and beverages 279
+Fashion accessories 943
+Home and lifestyle 479
+Health and beauty 266
+Health and beauty 74
+Electronic accessories 690
+Electronic accessories 176
+Fashion accessories 56
+Home and lifestyle 188
+Food and beverages 222
+Health and beauty 125
+Home and lifestyle 68
+Food and beverages 263
+Food and beverages 88
+Home and lifestyle 415
+Fashion accessories 312
+Food and beverages 477
+Electronic accessories 289
+Home and lifestyle 165
+Food and beverages 932
+Fashion accessories 96
+Electronic accessories 43
+Fashion accessories 16
+Electronic accessories 304
+Food and beverages 69
+Electronic accessories 80
+Home and lifestyle 314
+Home and lifestyle 255
+Health and beauty 49
+Electronic accessories 181
+Food and beverages 888
+Home and lifestyle 271
+Electronic accessories 640
+Home and lifestyle 252
+Fashion accessories 180
+Fashion accessories 104
+Food and beverages 313
+Food and beverages 167
+Electronic accessories 26
+Food and beverages 71
+Food and beverages 250
+Health and beauty 244
+Sports and travel 921
+Health and beauty 734
+Electronic accessories 708
+Fashion accessories 334
+Health and beauty 30
+Health and beauty 520
+Electronic accessories 864
+Health and beauty 633
+Food and beverages 296
+Sports and travel 804
+Electronic accessories 121
+Fashion accessories 183
+Electronic accessories 63
+Health and beauty 42
+Home and lifestyle 1022
+Food and beverages 33
+Home and lifestyle 69
+Fashion accessories 649

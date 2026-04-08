@@ -20,8 +20,17 @@ public class ESEMapReduce {
                 throws IOException, InterruptedException {
 
             String[] parts = value.toString().split("\\s+");
-            if (parts.length == 2) {
-                context.write(new Text(parts[0]), new IntWritable(1));
+
+            if (parts.length >= 2) {
+
+                StringBuilder sb = new StringBuilder();
+                for (int i = 0; i < parts.length - 1; i++) {
+                    sb.append(parts[i]).append(" ");
+                }
+
+                String product = sb.toString().trim();
+
+                context.write(new Text(product), new IntWritable(1));
             }
         }
     }
@@ -43,9 +52,10 @@ public class ESEMapReduce {
                 throws IOException, InterruptedException {
 
             String[] parts = value.toString().split("\\s+");
-            if (parts.length == 2) {
-                int num = Integer.parseInt(parts[1]);
-                context.write(new Text("max"), new IntWritable(num));
+
+            if (parts.length >= 2) {
+                int num = Integer.parseInt(parts[parts.length - 1]);
+                context.write(new Text("Max"), new IntWritable(num));
             }
         }
     }
@@ -68,8 +78,10 @@ public class ESEMapReduce {
                 throws IOException, InterruptedException {
 
             String[] parts = value.toString().split("\\s+");
-            if (parts.length == 2) {
-                int num = Integer.parseInt(parts[1]);
+
+            if (parts.length >= 2) {
+                int num = Integer.parseInt(parts[parts.length - 1]);
+
                 context.write(new Text("sum"), new IntWritable(num));
                 context.write(new Text("count"), new IntWritable(1));
             }
@@ -103,8 +115,9 @@ public class ESEMapReduce {
                 throws IOException, InterruptedException {
 
             String[] parts = value.toString().split("\\s+");
-            if (parts.length == 2) {
-                int num = Integer.parseInt(parts[1]);
+
+            if (parts.length >= 2) {
+                int num = Integer.parseInt(parts[parts.length - 1]);
                 context.write(new IntWritable(num), new IntWritable(1));
             }
         }
@@ -124,8 +137,9 @@ public class ESEMapReduce {
                 throws IOException, InterruptedException {
 
             String[] parts = value.toString().split("\\s+");
-            if (parts.length == 2) {
-                int num = Integer.parseInt(parts[1]);
+
+            if (parts.length >= 2) {
+                int num = Integer.parseInt(parts[parts.length - 1]);
 
                 if (num % 2 == 0)
                     context.write(new Text("Even"), new IntWritable(num));
@@ -159,7 +173,6 @@ public class ESEMapReduce {
 
         job.setJarByClass(ESEMapReduce.class);
 
-        // SELECT OPERATION
         if (operation.equals("wordcount")) {
             job.setMapperClass(WordMapper.class);
             job.setReducerClass(WordReducer.class);
