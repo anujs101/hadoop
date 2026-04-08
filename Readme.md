@@ -21,7 +21,7 @@ hdfs dfs -mkdir /user/anuj
 
 📄 INPUT FILE
 Create input
-nano input.txt
+nano supermarket_sales.csv
 Paste:
 hadoop 10
 mapreduce 20
@@ -31,7 +31,7 @@ mapreduce 50
 Save.
 
 Upload to HDFS
-hdfs dfs -put -f input.txt /user/anuj/
+hdfs dfs -put -f supermarket_sales.csv /user/anuj/
 
 ⚙️ COMPILE + JAR (if needed)
 hadoop com.sun.tools.javac.Main ESEMapReduce.java
@@ -41,27 +41,27 @@ jar cf ese.jar *.class
 
 🔹 1. Word Count
 hdfs dfs -rm -r output_wc
-hadoop jar ese.jar ESEMapReduce wordcount /user/anuj/input.txt output_wc
+hadoop jar ese.jar ESEMapReduce wordcount /user/anuj/supermarket_sales.csv output_wc
 hdfs dfs -cat output_wc/part-r-00000
 
 🔹 2. Max
 hdfs dfs -rm -r output_max
-hadoop jar ese.jar ESEMapReduce max /user/anuj/input.txt output_max
+hadoop jar ese.jar ESEMapReduce max /user/anuj/supermarket_sales.csv output_max
 hdfs dfs -cat output_max/part-r-00000
 
 🔹 3. Average
 hdfs dfs -rm -r output_avg
-hadoop jar ese.jar ESEMapReduce avg /user/anuj/input.txt output_avg
+hadoop jar ese.jar ESEMapReduce avg /user/anuj/supermarket_sales.csv output_avg
 hdfs dfs -cat output_avg/part-r-00000
 
 🔹 4. Distinct
 hdfs dfs -rm -r output_distinct
-hadoop jar ese.jar ESEMapReduce distinct /user/anuj/input.txt output_distinct
+hadoop jar ese.jar ESEMapReduce distinct /user/anuj/supermarket_sales.csv output_distinct
 hdfs dfs -cat output_distinct/part-r-00000
 
 🔹 5. Odd / Even
 hdfs dfs -rm -r output_oddeven
-hadoop jar ese.jar ESEMapReduce oddeven /user/anuj/input.txt output_oddeven
+hadoop jar ese.jar ESEMapReduce oddeven /user/anuj/supermarket_sales.csv output_oddeven
 hdfs dfs -cat output_oddeven/part-r-00000
 
 ⚠️ EMERGENCY FIXES (YOU WILL NEED THIS)
