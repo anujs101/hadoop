@@ -1,0 +1,8 @@
+{
+  "java.project.referencedLibraries": [
+  "/opt/homebrew/Cellar/hadoop/3.5.0/libexec/share/hadoop/common/**/*.jar",
+  "/opt/homebrew/Cellar/hadoop/3.5.0/libexec/share/hadoop/mapreduce/**/*.jar",
+  "/opt/homebrew/Cellar/hadoop/3.5.0/libexec/share/hadoop/hdfs/**/*.jar",
+  "/opt/homebrew/Cellar/hadoop/3.5.0/libexec/share/hadoop/yarn/**/*.jar"
+]
+}
